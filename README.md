@@ -1,6 +1,31 @@
-## Hi there 👋
-# 💫 About Me:
-👋 Hi, I’m Sahil — a B.Tech engineering student focused on building solid fundamentals in Data Structures, Operating Systems, and Web Development.<br><br>I work with Java, C++, and JavaScript, and I’m currently improving my problem-solving skills while building real projects instead of toy apps.<br><br>My goal is simple: become placement-ready by 2026 with strong core CS knowledge and production-level projects.
+# 👋 Hi, I'm Sahil
+
+**Web Developer Intern | Engineering Student**
+
+I build **responsive, interactive web applications** using **HTML, CSS, and JavaScript**.  
+Currently focused on advancing front-end skills and building real projects that solve practical problems.
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Version Control:** Git, GitHub
+- **UI/UX:** Responsive Design, Flexbox, Grid, Animations
+- **Tools:** VS Code, Chrome DevTools
+- **Deployment:** GitHub Pages, Vercel, Netlify
+
+---
+
+## 📌 Featured Projects
+
+### 🌟 Virtual Business Card
+Live: https://sahil3299.github.io/virtual-business-card/  
+Description: An interactive and responsive digital business card that includes dark mode, QR code download, and vCard contact export.
+
+### 📌 Dream Bucket List
+Live: https://sahil3299.github.io/dream-bucket-list/  
+Description: A single-page app to track personal goals with persistent storage, progress tracking, categories, and drag-and-drop ordering.
 
 
 ## 🌐 Socials:
@@ -16,18 +41,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sahil3299&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Sahil3299/Sahil3299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Fun Fact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prefer **projects that demonstrate real functionality**, not just templates.  
+My goal: *Turn ideas into working applications you can use and share.*
