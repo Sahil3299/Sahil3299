@@ -45,5 +45,5 @@ Description: A single-page app to track personal goals with persistent storage, 
 
 ## ⚡ Fun Fact
 
-I prefer **projects that demonstrate real functionality**, not just templates.  
+I 0 **projects that demonstrate real functionality**, not just templates.  
 My goal: *Turn ideas into working applications you can use and share.*
