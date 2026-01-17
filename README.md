@@ -1,3 +1,4 @@
+"""markdown
 # 👋 Hi, I'm Sahil
 
 **Web Developer Intern | Engineering Student**
@@ -31,6 +32,10 @@ Description: An interactive and responsive digital business card that includes d
 Live: https://sahil3299.github.io/dream-bucket-list/  
 Description: A single-page app to track personal goals with persistent storage, progress tracking, categories, and drag-and-drop ordering.
 
+### 🌟 Blood Connect
+Live: https://blood-connect-teal.vercel.app/
+Description: A project for connecting blood donors and recipients, built as a responsive web application.
+
 
 ## 🌐 Socials:
 - 🔗 LinkedIn: https://www.linkedin.com/in/sahil-shinde-a30948329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
@@ -38,7 +43,7 @@ Description: A single-page app to track personal goals with persistent storage, 
 - 🌐 Portfolio: https://sahil-portfolio-pied.vercel.app/ 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=[...]
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sahil3299&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahil3299&theme=dark&hide_border=false)<br/>
@@ -51,3 +56,4 @@ Description: A single-page app to track personal goals with persistent storage, 
 
 I 0 **projects that demonstrate real functionality**, not just templates.  
 My goal: *Turn ideas into working applications you can use and share.*
+"""
