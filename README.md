@@ -1,58 +1,101 @@
-# 👋 Hi, I'm Sahil
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Hi+👋,+I'm+Sahil;Web+Developer+%7C+Engineering+Student;I+Build+Real+Frontend+Projects" alt="Typing SVG" />
+  </a>
+</h1>
 
-**Web Developer Intern | Engineering Student**
+<h3 align="center">Web Developer Intern | Engineering Student</h3>
 
-I build **responsive, interactive web applications** using **HTML, CSS, and JavaScript**.  
-Currently focused on advancing front-end skills and building real projects that solve practical problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-shinde-a30948329">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sahilshinde2402@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://sahil-portfolio-pied.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahil3299&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Version Control:** Git, GitHub
-- **UI/UX:** Responsive Design, Flexbox, Grid, Animations
-- **Tools:** VS Code, Chrome DevTools
-- **Deployment:** GitHub Pages, Vercel, Netlify
+- 🔭 Currently building **MERN Stack-focused real-world projects**
+- 🌱 Learning **Advanced JavaScript, React & modern UI patterns**
+- 👨‍💻 All projects: **https://sahil-portfolio-pied.vercel.app/**
+- 💬 Ask me about **HTML, CSS, JavaScript, React,Node Js,MongoDb,Express Js**
+- ⚡ Fun fact: I don’t ship templates — I ship **working products**
+
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="45"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌟 My PortFolio
-Live: https://sahil-portfolio-pied.vercel.app/ 
-Description: Interactive Portfolio which describe my Web Development Skill, Creating UI with react componants
-
-### 🌟 Virtual Business Card
-Live: https://sahil3299.github.io/virtual-business-card/  
-Description: An interactive and responsive digital business card that includes dark mode, QR code download, and vCard contact export.
-
-### 📌 Dream Bucket List
-Live: https://sahil3299.github.io/dream-bucket-list/  
-Description: A single-page app to track personal goals with persistent storage, progress tracking, categories, and drag-and-drop ordering.
-
-### 🌟 Blood Connect
-Live: https://blood-connect-teal.vercel.app/
-Description: A project for connecting blood donors and recipients, built as a responsive web application.
-
-
-## 🌐 Socials:
-- 🔗 LinkedIn: https://www.linkedin.com/in/sahil-shinde-a30948329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📧 Email: sahilshinde2402@gmail.com
-- 🌐 Portfolio: https://sahil-portfolio-pied.vercel.app/ 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=[...]
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahil3299&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sahil3299&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3299&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🌟 Portfolio Website
+🔗 Live: https://sahil-portfolio-pied.vercel.app/  
+**Tech:** React, CSS, JavaScript  
+**Description:** Interactive portfolio showcasing projects, skills, and contact information.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sahil3299&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚡ Fun Fact
+### 🌟 Virtual Business Card
+🔗 Live: https://sahil3299.github.io/virtual-business-card/  
+**Tech:** HTML, CSS, JavaScript  
+**Description:** Responsive digital business card with dark mode, QR code, and vCard export.
 
-I 0 **projects that demonstrate real functionality**, not just templates.  
-My goal: *Turn ideas into working applications you can use and share.*
-"""
+---
+
+### 🌟 Dream Bucket List
+🔗 Live: https://sahil3299.github.io/dream-bucket-list/  
+**Tech:** JavaScript, LocalStorage  
+**Description:** Goal-tracking app with persistent storage and drag-and-drop ordering.
+
+---
+
+### 🌟 Blood Connect
+🔗 Live: https://blood-connect-teal.vercel.app/  
+**Tech:** HTML, CSS, JavaScript  
+**Description:** Platform to connect blood donors with recipients through a responsive UI.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil3299&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil3299&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3299&layout=compact&theme=dark" />
+</p>
+
+---
+
+## ⚡ Reality Check
+
+I focus on **few solid projects**, not 50 half-baked repos.  
+Goal: **Frontend Engineer who can actually build and ship.**
+
