@@ -1,6 +1,7 @@
 <h1 align="center">
+  👋 Hi, I'm Sahil
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&center=true&vCenter=true&width=650&height=60&lines=Hi+👋,+I'm+Sahil;Web+Developer+%7C+Engineering+Student;I+Build+Real+Frontend+Projects" alt="Typing SVG" />
+    
   </a>
 </h1>
 
