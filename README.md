@@ -75,16 +75,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahil3299&show_icons=true&theme=dark" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sahil3299&show_icons=true&theme=dark" /> -->
+![](https://github-readme-stats.vercel.app/api?username=Sahil3299&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil3299&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil3299&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil3299&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3299&layout=compact&theme=dark" />
-</p>
+</p> -->
 
 ---
 
