@@ -51,6 +51,13 @@
 
 ---
 
+### 🌟 Recipe App
+🔗 Live: https://recipe-app-gules-nu.vercel.app/ 
+**Tech:** HTML, CSS, JavaScript  
+**Description:** Responsive Recipe application which have laots of recipe.
+
+---
+
 ### 🌟 Virtual Business Card
 🔗 Live: https://sahil3299.github.io/virtual-business-card/  
 **Tech:** HTML, CSS, JavaScript  
