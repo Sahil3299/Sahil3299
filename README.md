@@ -52,7 +52,7 @@
 ---
 
 ### 🌟 Recipe App
-🔗 Live: https://recipe-app-gules-nu.vercel.app/ 
+🔗 Live: https://recipe-app-gules-nu.vercel.app/ <br/>
 **Tech:** HTML, CSS, JavaScript  
 **Description:** Responsive Recipe application which have laots of recipe.
 
