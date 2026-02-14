@@ -31,7 +31,7 @@
 - 🌱 Learning **Advanced JavaScript, React & modern UI patterns**
 - 👨‍💻 All projects: **https://sahil-portfolio-pied.vercel.app/**
 - 💬 Ask me about **HTML, CSS, JavaScript, React,Node Js,MongoDb,Express Js**
-- ⚡ Fun fact: I don’t ship templates — I ship **working products**
+- ⚡ Fun fact: I don't ship templates — I ship **working products**
 
 ---
 
@@ -51,10 +51,31 @@
 
 ---
 
-### 🌟 Recipe App
-🔗 Live: https://recipe-app-gules-nu.vercel.app/ <br/>
+### 🌟 Yelp Camp
+🔗 Live: https://your-yelp-camp-link.vercel.app/  
+**Tech:** Node.js, Express, MongoDB, EJS  
+**Description:** A full-stack campground review application with authentication, CRUD operations, and interactive maps.
+
+---
+
+### 🌟 Chat App
+🔗 Live: https://your-chat-app-link.vercel.app/  
+**Tech:** React, Node.js, Socket.io  
+**Description:** Real-time chat application with instant messaging, online users, and group chat features.
+
+---
+
+### 🌟 Kanban Board
+🔗 Live: https://your-kanban-board-link.vercel.app/  
+**Tech:** React, Drag & Drop API  
+**Description:** Task management board with drag-and-drop functionality for organizing tasks across columns.
+
+---
+
+### 🌟 Blood Connect
+🔗 Live: https://blood-connect-teal.vercel.app/  
 **Tech:** HTML, CSS, JavaScript  
-**Description:** Responsive Recipe application which have laots of recipe.
+**Description:** Platform to connect blood donors with recipients through a responsive UI.
 
 ---
 
@@ -72,10 +93,10 @@
 
 ---
 
-### 🌟 Blood Connect
-🔗 Live: https://blood-connect-teal.vercel.app/  
+### 🌟 Recipe App
+🔗 Live: https://recipe-app-gules-nu.vercel.app/ <br/>
 **Tech:** HTML, CSS, JavaScript  
-**Description:** Platform to connect blood donors with recipients through a responsive UI.
+**Description:** Responsive Recipe application which have lots of recipe.
 
 ---
 
@@ -104,4 +125,3 @@
 
 I focus on **few solid projects**, not 50 half-baked repos.  
 Goal: **Frontend Engineer who can actually build and ship.**
-
