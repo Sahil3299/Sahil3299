@@ -52,21 +52,18 @@
 ---
 
 ### 🌟 Yelp Camp
-🔗 Live: https://your-yelp-camp-link.vercel.app/  
 **Tech:** Node.js, Express, MongoDB, EJS  
 **Description:** A full-stack campground review application with authentication, CRUD operations, and interactive maps.
 
 ---
 
-### 🌟 Chat App
-🔗 Live: https://your-chat-app-link.vercel.app/  
+### 🌟 Chat App 
 **Tech:** React, Node.js, Socket.io  
 **Description:** Real-time chat application with instant messaging, online users, and group chat features.
 
 ---
 
 ### 🌟 Kanban Board
-🔗 Live: https://your-kanban-board-link.vercel.app/  
 **Tech:** React, Drag & Drop API  
 **Description:** Task management board with drag-and-drop functionality for organizing tasks across columns.
 
