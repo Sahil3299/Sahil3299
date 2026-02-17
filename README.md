@@ -45,7 +45,7 @@
 ## 📌 Featured Projects
 
 ### 🌟 Portfolio Website
-🔗 Live: https://portfolio-sahil3299s-projects.vercel.app/ 
+🔗 Live: https://portfolio-sahil3299s-projects.vercel.app/
 **Tech:** React, CSS, JavaScript  
 **Description:** Interactive portfolio showcasing projects, skills, and contact information.
 
