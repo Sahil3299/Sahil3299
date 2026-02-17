@@ -29,7 +29,7 @@
 
 - 🔭 Currently building **MERN Stack-focused real-world projects**
 - 🌱 Learning **Advanced JavaScript, React & modern UI patterns**
-- 👨‍💻 All projects: **https://sahil-portfolio-pied.vercel.app/**
+- 👨‍💻 All projects: **https://portfolio-sahil3299s-projects.vercel.app/**
 - 💬 Ask me about **HTML, CSS, JavaScript, React,Node Js,MongoDb,Express Js**
 - ⚡ Fun fact: I don't ship templates — I ship **working products**
 
@@ -45,7 +45,7 @@
 ## 📌 Featured Projects
 
 ### 🌟 Portfolio Website
-🔗 Live: https://sahil-portfolio-pied.vercel.app/  
+🔗 Live: https://portfolio-sahil3299s-projects.vercel.app/ 
 **Tech:** React, CSS, JavaScript  
 **Description:** Interactive portfolio showcasing projects, skills, and contact information.
 
