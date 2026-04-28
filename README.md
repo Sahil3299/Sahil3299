@@ -76,13 +76,6 @@
 
 ---
 
-### 🌟 Virtual Business Card
-🔗 Live: https://sahil3299.github.io/virtual-business-card/  
-**Tech:** HTML, CSS, JavaScript  
-**Description:** Responsive digital business card with dark mode, QR code, and vCard export.
-
----
-
 ### 🌟 Dream Bucket List
 🔗 Live: https://sahil3299.github.io/dream-bucket-list/  
 **Tech:** JavaScript, LocalStorage  
