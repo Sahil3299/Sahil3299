@@ -70,7 +70,7 @@
 ---
 
 ### 🌟 Blood Connect
-🔗 Live: https://blood-connect-teal.vercel.app/  
+🔗 Live: https://blood-connect-jwdg.vercel.app/  
 **Tech:** HTML, CSS, JavaScript  
 **Description:** Platform to connect blood donors with recipients through a responsive UI.
 
