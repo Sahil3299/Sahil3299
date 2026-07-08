@@ -1,117 +1,157 @@
-<h1 align="center">
-  👋 Hi, I'm Sahil
-  <a href="https://git.io/typing-svg">
-    
-  </a>
-</h1>
+<div align="center">
 
-<h3 align="center">Web Developer Intern | Engineering Student</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Sahil%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineering%20Student&descAlignY=62&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sahil-shinde-a30948329">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sahilshinde2402@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://sahil-portfolio-pied.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil3299&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<br/>
 
----
+<table align="center">
+<tr>
+<td width="140" align="center">
+  <img src="https://avatars.githubusercontent.com/u/0000000?v=4" width="110" style="border-radius:50%;" />
+</td>
+<td>
 
-## 🚀 About Me
+### Sahil Shinde
+**github.com/sahil3299**
 
-- 🔭 Currently building **MERN Stack-focused real-world projects**
-- 🌱 Learning **Advanced JavaScript, React & modern UI patterns**
-- 👨‍💻 All projects: **https://portfolio-sahil3299s-projects.vercel.app/**
-- 💬 Ask me about **HTML, CSS, JavaScript, React,Node Js,MongoDb,Express Js**
-- ⚡ Fun fact: I don't ship templates — I ship **working products**
+<a href="https://github.com/sahil3299?tab=followers"><img src="https://img.shields.io/github/followers/sahil3299?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=1e293b" /></a>
+<a href="https://github.com/sahil3299?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sahil3299&label=Repos&query=public_repos&style=for-the-badge&color=EC4899&labelColor=1e293b" /></a>
+<a href="https://leetcode.com/u/GawULSVCu5/"><img src="https://img.shields.io/badge/LeetCode-80%2B%20Solved-F59E0B?style=for-the-badge&labelColor=1e293b" /></a>
+<a href="https://github.com/sahil3299"><img src="https://img.shields.io/github/stars/sahil3299?label=Stars&style=for-the-badge&color=22C55E&labelColor=1e293b" /></a>
 
----
+</td>
+</tr>
+</table>
 
-## 💻 Languages & Tools
+<br/>
 
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## About Me
 
+I'm a **Full-Stack Developer** and **AI & ML Engineering student** (SGPA 9.24) building production-ready web applications with the MERN stack. I enjoy working on real-time systems, geolocation-driven platforms, and writing clean, scalable code that solves real problems.
 
----
+- 🎓 Currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at PES Modern College of Engineering, Pune (2024–2027)
+- 🏆 Selected for the **State-Level Project Expo at JCOE**, representing my college among teams from across Maharashtra
+- 💻 **80+ problems solved on LeetCode**, sharpening DSA and problem-solving skills
+- 🌱 Currently exploring deeper ML/AI concepts alongside full-stack development
+- 📫 Reach me via the links below
 
-## 📌 Featured Projects
+<br/>
 
-### 🌟 Portfolio Website
-🔗 Live: https://portfolio-sahil3299s-projects.vercel.app/
-**Tech:** React, CSS, JavaScript  
-**Description:** Interactive portfolio showcasing projects, skills, and contact information.
+## Tech Stack
 
----
+<div align="center">
 
-### 🌟 Yelp Camp
-**Tech:** Node.js, Express, MongoDB, EJS  
-**Description:** A full-stack campground review application with authentication, CRUD operations, and interactive maps.
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
----
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-### 🌟 Chat App 
-**Tech:** React, Node.js, Socket.io  
-**Description:** Real-time chat application with instant messaging, online users, and group chat features.
+**Backend & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
----
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-### 🌟 Kanban Board
-**Tech:** React, Drag & Drop API  
-**Description:** Task management board with drag-and-drop functionality for organizing tasks across columns.
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
----
+</div>
 
-### 🌟 Blood Connect
-🔗 Live: https://blood-connect-jwdg.vercel.app/  
-**Tech:** HTML, CSS, JavaScript  
-**Description:** Platform to connect blood donors with recipients through a responsive UI.
+<br/>
 
----
+## GitHub Stats
 
-### 🌟 Dream Bucket List
-🔗 Live: https://sahil3299.github.io/dream-bucket-list/  
-**Tech:** JavaScript, LocalStorage  
-**Description:** Goal-tracking app with persistent storage and drag-and-drop ordering.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahil3299&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil3299&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3299&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
-### 🌟 Recipe App
-🔗 Live: https://recipe-app-gules-nu.vercel.app/ <br/>
-**Tech:** HTML, CSS, JavaScript  
-**Description:** Responsive Recipe application which have lots of recipe.
+<br/>
 
----
+## Featured Projects
 
-## 📊 GitHub Stats
+### 🏠 NestMate — Flatmate & Rental Discovery Platform
+`React.js` `Node.js` `MongoDB` `Socket.IO` `Tailwind CSS` `JWT`
+- Full-stack platform for listing rooms and discovering flatmates based on location, budget, and lifestyle preferences.
+- Real-time in-app chat via Socket.IO with online presence indicators and message persistence.
+- JWT authentication, advanced search/filter, scalable REST APIs, deployed on Vercel with optimized MongoDB schemas.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil3299&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-</p>><br/>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil3299&theme=tokyonight&hide_border=false"/>
-</p><br/>
- <p align = "center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil3299&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil3299&theme=dark" />
-</p>
+### 🩸 BloodConnect — Emergency Blood Donor Network
+`React.js` `Node.js` `MongoDB` `Geolocation API` `Tailwind CSS`
+- Real-time platform matching patients with nearby verified blood donors using MongoDB `$near` geospatial queries.
+- Hospital dashboard for request management, donor tracking, and urgency-based filtering with a mobile-first UI.
+- Multi-role access for donors, patients, and hospitals with live availability updates, deployed on Vercel.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil3299&layout=compact&theme=dark" />
-</p> -->
+### 🏕️ YelpCamp — Campground Listing Platform
+`Node.js` `Express.js` `MongoDB` `Passport.js` `Cloudinary` `Mapbox`
+- Full-stack campground platform with complete CRUD, RESTful routing, and Passport.js authentication.
+- Cloudinary image uploads and interactive Mapbox maps.
+- Secured with Helmet, mongo-sanitize, and express-rate-limit; production-grade session handling.
 
----
+<br/>
 
-## ⚡ Reality Check
+## Experience
 
-I focus on **few solid projects**, not 50 half-baked repos.  
-Goal: **Frontend Engineer who can actually build and ship.**
+**Web Development Intern — Omegasoft Technologies Pvt. Ltd., Pune**  *(Jun 2023 – Jul 2023)*
+- Developed React.js frontend components integrated with Node.js/MongoDB backend APIs in an Agile team environment.
+- Implemented CRUD operations, optimized database queries, and followed Git-based version control with peer code review.
+
+<br/>
+
+## Education
+
+| Institution | Program | Duration | Score |
+|---|---|---|---|
+| PES Modern College of Engineering, Pune | B.E. in AI & ML | 2024 – 2027 | SGPA 9.24/10 |
+| Jaihind Polytechnic, Kuran, Pune | Diploma in Computer Engineering | 2021 – 2024 | 89.94% |
+
+<br/>
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sahil-shinde"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/u/GawULSVCu5/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+</div>
